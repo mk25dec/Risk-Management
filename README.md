@@ -11,3 +11,5 @@ By using this dashboard, business can:
 * **Enhance Operational Efficiency:** The aggregated monthly data for metrics like fraudulent transactions and complaint resolution time provides a high-level view of performance, helping to pinpoint bottlenecks and allocate resources more effectively.
 * **Streamline Compliance Reporting:** The dashboard centralizes critical compliance and security metrics, from KYC completion rates to PEP hits, simplifying the process of reporting and demonstrating regulatory adherence.
 * **Visualize Performance:** The use of interactive charts and clear metrics allows for a more intuitive understanding of complex data, which is essential for communicating risk posture across the organization.
+
+  
