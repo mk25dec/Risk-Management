@@ -1,10 +1,11 @@
-I will now write a compelling overview of the capabilities and benefits of the code.
+Capabilities and Benefits
 
 ### Overview of Business Value
 
-This Streamlit application provides a **comprehensive, real-time risk monitoring dashboard** that offers a clear and interactive view of key risk indicators (KRIs) for your bank. The code is designed to transform raw JSON data into actionable, visual insights, making it a powerful tool for risk managers, compliance officers, and senior leadership.
+This overview provides a **comprehensive, real-time risk monitoring dashboard** that offers a clear and interactive view of key risk indicators (KRIs) for your bank. 
+It is designed to transform raw Risk data in JSON into actionable, visual insights, making it a powerful tool for risk managers, compliance officers, and senior leadership.
 
-By using this dashboard, your business can:
+By using this dashboard, business can:
 
 * **Improve Decision-Making:** Quickly identify emerging risks and trends, such as rising high-risk clients or a backlog in investigations, allowing for proactive intervention.
 * **Enhance Operational Efficiency:** The aggregated monthly data for metrics like fraudulent transactions and complaint resolution time provides a high-level view of performance, helping to pinpoint bottlenecks and allocate resources more effectively.
