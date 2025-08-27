@@ -2,7 +2,7 @@ Capabilities and Benefits
 
 ### Overview of Business Value
 
-This overview provides a **comprehensive, real-time risk monitoring dashboard** that offers a clear and interactive view of key risk indicators (KRIs) for your bank. 
+This overview provides a **comprehensive, Real-Time risk monitoring dashboard** that offers a clear and interactive view of key risk indicators (KRIs) for your bank. 
 It is designed to transform raw Risk data in JSON into actionable, visual insights, making it a powerful tool for risk managers, compliance officers, and senior leadership.
 
 By using this dashboard, business can:
