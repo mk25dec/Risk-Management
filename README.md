@@ -1,5 +1,7 @@
 Capabilities and Benefits
 
+**Developed Risk, Regulatory & Compliance Dashboard for Real-Time Risk Monitoring
+**
 ### Overview of Business Value
 
 This overview provides a **comprehensive, Real-Time risk monitoring dashboard** that offers a clear and interactive view of key risk indicators (KRIs) for your bank. 
